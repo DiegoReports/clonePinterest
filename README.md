@@ -10,13 +10,12 @@ UI Clone - < Devrest /> (Pinterest Home Page)
 <br>
 
 ## Utilizamos:
----
 
 - [x] HTML, SCSS, JS
 - [x] SVG Images
 
 ## Executando o projeto no VSCode
----
+
 1. Abra a pasta no seu VSCode.
 2. Instale a extenção `Live Server` e `Live Sass Compiler`.
 3. Click com direito `index.hmtl`> `Open with Live Server`
