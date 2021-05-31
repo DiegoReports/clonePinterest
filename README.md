@@ -26,4 +26,4 @@ UI Clone - < Devrest /> (Pinterest Home Page)
 ---
 Aula de UI-Clone do <a href="https://github.com/guilhermerodz">⚡ Guilherme Rodz</a> no canal do YouTube da <a href="https://www.youtube.com/watch?v=XdqD8qi44Cg">Rocketseat</a>
 <br>
-<p align="center"><strong>Desenvolvido por <a href="www.linkedin.com/in/diego-henrique-sg">Diego Henrique 🚀</a></strong></p>
+<p align="center"><strong>Desenvolvido por <a href="https://www.linkedin.com/in/diego-henrique-sg">Diego Henrique</a></strong> 🚀</p>
