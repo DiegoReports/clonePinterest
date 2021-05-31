@@ -6,7 +6,7 @@
 }
 
 *, button, input {
-  font-family: Arial, sans-serif;
+  font-family: 'Ubuntu', Arial, sans-serif;
 }
 
 *, li {
@@ -41,7 +41,7 @@ header {
 }
 
 header h3 {
-  color: #8a00e6;
+  color: #7a02ca;
   font-size: 20px;
   font-weight: 700;
 }
@@ -96,7 +96,7 @@ header nav .buttons button {
 
 header nav .buttons .login {
   color: #fff;
-  background: #8a00e6;
+  background: #7a02ca;
 }
 
 header nav .buttons .singup {
@@ -138,7 +138,7 @@ header nav .buttons .singup {
 
 .heading .wrapper .text {
   white-space: nowrap;
-  color: #8a00e6;
+  color: #7a02ca;
   -webkit-transition-duration: 1s;
           transition-duration: 1s;
 }
@@ -234,7 +234,7 @@ header nav .buttons .singup {
 .item {
   width: 236px;
   height: 350px;
-  background: #8a00e6;
+  background: #7a02ca;
   border-radius: 10px;
 }
 
